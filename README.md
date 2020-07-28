@@ -5,4 +5,4 @@ In 2017, Cirque du Soleil incorporated a spinning water curtain into their show.
 
 Project writeup: 
 
-Project demo: 
+Project demo: https://youtu.be/YNHzmb3wmUg
